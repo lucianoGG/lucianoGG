@@ -50,11 +50,11 @@
     </p>
 </details>
 
-<h2 align="center">
-   TKS inspiracão README Matheus Felipe
-   <a href="https://github.com/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
-    </a>
-</h2>
+<p align="center">
+    <i>TKS inspiracão README Matheus Felipe</i>
+        <a href="https://github.com/matheusfelipeog" target="_blank">
+            <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
+        </a>
+</p>
 
 <img src="https://github.com/lucianoGG/lucianoGG/blob/main/image/background.jpg" alt="" />
