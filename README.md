@@ -5,6 +5,16 @@
 </h2>
 
 <p align="center">
+    <b>Me chamo Luciano Gimenes, trabalhos com alguns desenvolvimentos de aplicativos mobile para Android, Web sites e agora na industria de automação residencial e industrial</b>
+</p>
+
+<p align="center">
+    Este é meu GitHub, não reparem a bagunça... aqui estarei postando alguns projetos básicos
+</p>
+
+<br />
+
+<p align="center">
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
     <br/><br/>
     <a href="https://github.com/lucianoGG" target="_blank">
@@ -52,7 +62,7 @@
 
 <img src="https://github.com/lucianoGG/lucianoGG/blob/main/image/background.jpg" alt="" />
 <br/><br/>
----
+
 <p align="center">
     <i>TKS inspiracão README <a href="https://github.com/matheusfelipeog" target="_blank">Matheus Felipe</a></i>
 </p>
