@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-    <b>Me chamo Luciano Gimenes, trabalhos com alguns desenvolvimentos de aplicativos mobile para Android, Web sites e agora na industria de automação residencial e industrial</b>
+    <b>Me chamo Luciano Gimenes, trabalhos com desenvolvimento de aplicativos mobile para Android, Web sites e agora na industria de automação residencial e industrial</b>
 </p>
 
 <p align="center">
