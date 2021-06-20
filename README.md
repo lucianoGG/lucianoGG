@@ -5,11 +5,11 @@
 </h2>
 
 <p align="center">
-    <b>Me chamo Luciano Gimenes, trabalhos com desenvolvimento de aplicativos mobile para Android, Web sites e agora na industria de automação residencial e industrial</b>
+    <b>Me chamo Luciano Gimenes, trabalho com desenvolvimento de aplicativos mobile para Android, Web sites e agora na industria de automação residencial e industrial</b>
 </p>
 
 <p align="center">
-    Este é meu GitHub, não reparem a bagunça... aqui estarei postando alguns projetos básicos
+    Este é meu GitHub, não reparem a bagunça... aqui estarei postando alguns projetos básicos que aprendi e estou aprendendo
 </p>
 
 <br />
