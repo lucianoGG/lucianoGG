@@ -1,17 +1,54 @@
-<img src="https://github.com/lucianoGG/lucianoGG/blob/main/image/background.jpg" alt="" />
+<img src="https://github.com/lucianoGG/lucianoGG/blob/main/image/back_top.jpeg" alt="" />
 
 <h2 align="center">
    Hello, World 👋
 </h2>
 
 <p align="center">
-    <b>Me chamo Luciano Gimenes, trabalho com desenvolvimento de aplicativos mobile para Android, Web sites e agora na industria de automação residencial e industrial</b>
+    <b>Me chamo Luciano Gimenes, atualmente trabalho com desenvolvimento back-end</b>
 </p>
 
-<p align="center">
-    Este é meu GitHub, não reparem a bagunça... aqui estarei postando alguns projetos básicos que aprendi e estou aprendendo
+<p>
+    <b>Habilidades Técnicas:</b>
 </p>
+<ul>
+        <li>PHP Avançado</li>
+        <li>JavaScript Básico</li>
+   <li>TypeScript Básico</li>
+   <li>Flutter Básico</li>
+   <li>Android Java</li>
+   <li>C++ Básico</li>
+   <li>Git</li>
+    <li>Git</li>
+    <li>MySQL</li>
+    <li>PostgreSQL</li>
+    </ul>
+    <br />
 
+<p>
+    <b>Ferramentas:</b>
+</p>
+<ul>
+        <li>Visual Studio Code</li>
+        <li>Android Studio</li>
+   <li>Netbeans</li>
+   <li>Insomnia</li>
+   <li>Github</li>
+    </ul>
+    
+<br />
+
+<p>
+    <b>Aliados à algumas qualidades pessoais</b>
+</p>
+<ul>
+        <li>Aprendizado rápido</li>
+        <li>Experiência em receber e dar feedbacks</li>
+   <li>Boa comunicação e organização</li>
+   <li>Ser um bom ouvinte</li>
+   <li>Autodidata</li>
+    </ul>
+    
 <br />
 
 <p align="center">
@@ -39,14 +76,15 @@
 <details>
     <summary>Mais Sobre Mim</summary>
     <p>
-        Me conectei ao mundo da programação em 2016, amor a primeira vista...<br />
-        Sempre me perguntando como que criava aplicativos, websites, softwares me levou a estudar por conta própria esse enorme mundo<br />
-        Dentre esses anos aprendi o desenvolvimento de algumas linguagens
-    </p>
-    <ul>
-        <li>Estudando PHP | Java | Python | Dev Web | Dev Mobile | C</li>
-        <li>Estudando automação residencial e industrial, integrações com Alexa, MQTT, Arduino e outros</li>
-    </ul>
+         Sempre tive me perguntando em saber como que uma programa, jogo, aplicativo funcionava e este interesse crescia cada vez mais, descobri o mundo da programação, fiquei  fascinado com o PHP e aplicativos para Android, tornou um hobby programar, foi quando mergulhei de cabeça e tornei como profissão
+   </p>
+   <p>
+         Busquei conhecimento em plataformas de vídeos e fóruns materiais sobre as tecnologia e principalmente a lógica de programação
+   </p>
+   <p>
+         Não parei por aí, sempre me aprimorando cada vez mais meus conhecimentos técnicos consegui objetivos e quero mais, pois me vejo que posso contribuir utilizando a programação
+   </p>
+   
 </details>
 
 <details>
@@ -59,10 +97,4 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianoGG&layout=compact&theme=dark&locale=pt-br" alt="Techs utilizadas nos projetos" />
     </p>
 </details>
-
-<img src="https://github.com/lucianoGG/lucianoGG/blob/main/image/background.jpg" alt="" />
 <br/><br/>
-
-<p align="center">
-    <i>TKS inspiracão README <a href="https://github.com/matheusfelipeog" target="_blank">Matheus Felipe</a></i>
-</p>
