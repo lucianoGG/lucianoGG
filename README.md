@@ -18,7 +18,6 @@
    <li>Flutter Básico</li>
    <li>Android Java</li>
    <li>C++ Básico</li>
-   <li>Git</li>
     <li>Git</li>
     <li>MySQL</li>
     <li>PostgreSQL</li>
