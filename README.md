@@ -1,54 +1,15 @@
-<img src="https://github.com/lucianoGG/lucianoGG/blob/main/image/back_top.jpeg" alt="" />
+###  Hello, World 👋
 
-<h2 align="center">
-   Hello, World 👋
-</h2>
+Me chamo Luciano Gimenes, atualmente trabalho com desenvolvimento back-end com NodeJS, JavaScript(TS), PHP, Dart.
 
-<p align="center">
-    <b>Me chamo Luciano Gimenes, atualmente trabalho com desenvolvimento back-end</b>
-</p>
+Experiência com outras linguagens, Flutter, Android(Java), HTML, Java.
 
-<p>
-    <b>Habilidades Técnicas:</b>
-</p>
-<ul>
-        <li>PHP Avançado</li>
-        <li>JavaScript Básico</li>
-   <li>TypeScript Básico</li>
-   <li>Flutter Básico</li>
-   <li>Android Java</li>
-   <li>C++ Básico</li>
-    <li>Git</li>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
-    </ul>
-    <br />
+Tenho conhecimento com alguns bancos de dados relacional como MySQL, PostgreSQL
 
-<p>
-    <b>Ferramentas:</b>
-</p>
-<ul>
-        <li>Visual Studio Code</li>
-        <li>Android Studio</li>
-   <li>Netbeans</li>
-   <li>Insomnia</li>
-   <li>Github</li>
-    </ul>
-    
-<br />
+E com ferramenta de versionamento como o GIT, mando super bem com frameworks e várias outras bibliotecas
 
-<p>
-    <b>Aliados à algumas qualidades pessoais</b>
-</p>
-<ul>
-        <li>Aprendizado rápido</li>
-        <li>Experiência em receber e dar feedbacks</li>
-   <li>Boa comunicação e organização</li>
-   <li>Ser um bom ouvinte</li>
-   <li>Autodidata</li>
-    </ul>
-    
-<br />
+[![Minhas Estatísticas no Github](https://github-readme-stats.vercel.app/api?username=lucianoGG&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br)](https://github.com/lucianoGG)
+
 
 <p align="center">
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
@@ -70,30 +31,3 @@
     </a>
 </p>
 
----
-
-<details>
-    <summary>Mais Sobre Mim</summary>
-    <p>
-         Sempre tive me perguntando em saber como que uma programa, jogo, aplicativo funcionava e este interesse crescia cada vez mais, descobri o mundo da programação, fiquei  fascinado com o PHP e aplicativos para Android, tornou um hobby programar, foi quando mergulhei de cabeça e tornei como profissão
-   </p>
-   <p>
-         Busquei conhecimento em plataformas de vídeos e fóruns materiais sobre as tecnologia e principalmente a lógica de programação
-   </p>
-   <p>
-         Não parei por aí, sempre me aprimorando cada vez mais meus conhecimentos técnicos consegui objetivos e quero mais, pois me vejo que posso contribuir utilizando a programação
-   </p>
-   
-</details>
-
-<details>
-    <summary>Minhas Estatísticas no Github</summary>
-    <p align="center">
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=lucianoGG&theme=dark&show_icons=true&include_all_commits=true&locale=pt-br" alt="Estátisticas Gerais" />
-    </p>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianoGG&layout=compact&theme=dark&locale=pt-br" alt="Techs utilizadas nos projetos" />
-    </p>
-</details>
-<br/><br/>
