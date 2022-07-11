@@ -1,6 +1,6 @@
 ###  Hello, World 👋
 
-Me chamo Luciano Gimenes, atualmente trabalho com desenvolvimento back-end com NodeJS, JavaScript(TS), PHP, Dart.
+Me chamo Luciano Gimenes, atualmente trabalho com desenvolvimento back-end com NodeJS, JavaScript, TypeScript, PHP, Dart.
 
 Experiência com outras linguagens, Flutter, Android(Java), HTML, Java.
 
