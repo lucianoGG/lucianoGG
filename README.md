@@ -1,13 +1,12 @@
-###  Hello, World 👋
+Desenvolvedor Mobile Java/Kotlin com especialização em framework Flutter.
 
-Me chamo Luciano Gimenes, atualmente trabalho com desenvolvimento back-end com NodeJS, JavaScript, TypeScript, PHP, Dart.
-
-Experiência com outras linguagens, Flutter, Android(Java), HTML, Java.
-
-Tenho conhecimento com alguns bancos de dados relacional como MySQL, PostgreSQL
-
-E com ferramenta de versionamento como o GIT, mando super bem com frameworks e várias outras bibliotecas
-
+- Conhecimento em consumo de REST APIs e MVC.
+- Conhecimento em construção de aplicativos escaláveis e robustos.
+- Conhecimento da metodologia SCRUM.
+- Conhecimento com o framework React Native.
+- Cohecimento e desenvolvimento back-end com NodeJS, JavaScript, TypeScript e PHP.
+- Conhecimento com bancos de dados relacional como MySQL, PostgreSQL.
+- 
 [![Minhas Estatísticas no Github](https://github-readme-stats.vercel.app/api?username=lucianoGG&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br)](https://github.com/lucianoGG)
 
 
